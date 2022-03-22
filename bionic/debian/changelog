@@ -1,3 +1,9 @@
+sdformat11 (11.4.1-1~bionic) bionic; urgency=medium
+
+  * sdformat11 11.4.1-1 release
+
+ -- Steve Peters <scpeters@openrobotics.org>  Mon, 21 Mar 2022 16:48:40 -0700
+
 sdformat11 (11.4.0-1~bionic) bionic; urgency=medium
 
   * sdformat11 11.4.0-1 release
